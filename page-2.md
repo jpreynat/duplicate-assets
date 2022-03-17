@@ -1,3 +1,3 @@
 # Page 2
 
-![](broken-reference)
+![](.gitbook/assets/gitbook-logo-rect.png)
